@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">Replace main Codex provider</title>
+  <desc id="desc">The original Codex configuration is backed up and the selected model provider is switched to an AI Gateway.</desc>
+  <rect width="1000" height="260" rx="20" fill="#f5f7fc"/>
+  <rect x="38" y="74" width="255" height="115" rx="16" fill="#102441"/>
+  <text x="165" y="119" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="white" text-anchor="middle">Codex MAIN</text>
+  <text x="165" y="149" font-family="Arial,sans-serif" font-size="16" fill="#dbeafe" text-anchor="middle">config.toml</text>
+  <path d="M293 131 H388" stroke="#4167a2" stroke-width="4" stroke-linecap="round"/>
+  <path d="M375 119 L388 131 L375 143" stroke="#4167a2" stroke-width="4" fill="none"/>
+  <rect x="400" y="33" width="250" height="91" rx="14" fill="#dce8ff" stroke="#2764dc" stroke-width="2"/>
+  <text x="525" y="70" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#153c81" text-anchor="middle">1. Backup</text>
+  <text x="525" y="99" font-family="Arial,sans-serif" font-size="15" fill="#153c81" text-anchor="middle">Timestamped copy</text>
+  <rect x="400" y="143" width="250" height="91" rx="14" fill="#efe7ff" stroke="#7a42dd" stroke-width="2"/>
+  <text x="525" y="179" font-family="Arial,sans-serif" font-size="21" font-weight="700" fill="#53309c" text-anchor="middle">2. Switch provider</text>
+  <text x="525" y="208" font-family="Arial,sans-serif" font-size="15" fill="#53309c" text-anchor="middle">Gateway Responses API</text>
+  <path d="M650 187 H735" stroke="#4167a2" stroke-width="4" stroke-linecap="round"/>
+  <path d="M722 175 L735 187 L722 199" stroke="#4167a2" stroke-width="4" fill="none"/>
+  <rect x="747" y="143" width="215" height="91" rx="14" fill="#7a42dd"/>
+  <text x="854" y="180" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="white" text-anchor="middle">AI Gateway</text>
+  <text x="854" y="209" font-family="Arial,sans-serif" font-size="15" fill="white" text-anchor="middle">Your allowed model</text>
+</svg>

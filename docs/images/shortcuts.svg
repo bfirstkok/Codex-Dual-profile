@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
+  <title id="title">Desktop shortcuts for main and gateway Codex profiles</title>
+  <desc id="desc">Open the normal Codex shortcut for ChatGPT and the new Codex Gateway shortcut for the second profile.</desc>
+  <rect width="1000" height="300" rx="20" fill="#f5f7fc"/>
+  <text x="500" y="48" font-family="Arial,sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#142843">Two shortcuts on Windows Desktop</text>
+  <rect x="60" y="82" width="405" height="177" rx="16" fill="white" stroke="#2764dc" stroke-width="3"/>
+  <rect x="90" y="110" width="67" height="67" rx="15" fill="#2764dc"/>
+  <text x="123" y="154" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="white">C</text>
+  <text x="175" y="135" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#142843">Codex</text>
+  <text x="175" y="169" font-family="Arial,sans-serif" font-size="17" fill="#53657b">Main · ChatGPT plan</text>
+  <text x="90" y="222" font-family="Arial,sans-serif" font-size="16" fill="#53657b">Open the original app normally</text>
+  <rect x="535" y="82" width="405" height="177" rx="16" fill="white" stroke="#7a42dd" stroke-width="3"/>
+  <rect x="565" y="110" width="67" height="67" rx="15" fill="#7a42dd"/>
+  <text x="598" y="154" text-anchor="middle" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="white">G</text>
+  <text x="650" y="135" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#142843">Codex - AskMe Gateway</text>
+  <text x="650" y="169" font-family="Arial,sans-serif" font-size="17" fill="#53657b">Second · Responses API</text>
+  <text x="565" y="222" font-family="Arial,sans-serif" font-size="16" fill="#53657b">Created by the installer</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+  <title id="title">Open PowerShell from File Explorer</title>
+  <desc id="desc">In the extracted repository folder, select the File Explorer address bar, type powershell, and press Enter.</desc>
+  <rect width="1000" height="310" rx="20" fill="#f5f7fc"/>
+  <rect x="40" y="32" width="920" height="248" rx="15" fill="white" stroke="#bac8d8" stroke-width="3"/>
+  <rect x="40" y="32" width="920" height="47" rx="15" fill="#e8edf5"/>
+  <text x="65" y="63" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#142843">File Explorer</text>
+  <rect x="85" y="98" width="830" height="55" rx="10" fill="#eaf1ff" stroke="#2764dc" stroke-width="3"/>
+  <text x="104" y="133" font-family="Consolas,monospace" font-size="24" fill="#123a7a">powershell</text>
+  <text x="85" y="198" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#142843">1. Extract ZIP   2. Ctrl + L   3. Type powershell   4. Enter</text>
+  <text x="85" y="242" font-family="Arial,sans-serif" font-size="18" fill="#53657b">PowerShell opens in the extracted project folder</text>
+</svg>

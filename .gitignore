@@ -1,0 +1,24 @@
+# Secrets and local profile data — never commit
+*.dpapi
+.env
+.env.*
+!.env.example
+auth.json
+config.toml
+config.toml.backup-*
+*.backup-*
+*.bak
+codex-home/
+web-data/
+OpenAI-Profiles/
+Codex-Gateway-Profiles/
+*.log
+
+# Local OS/editor/build artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.zip
+*.tmp
